@@ -1,3 +1,5 @@
+/****** GLOBAL STYLES ******/
+
 .navbar {
     min-height: 80px;
 }
@@ -6,11 +8,27 @@
     color: #AC78FF;
 }
 
-#address-search {
-    border-bottom: 1px solid #f48fb1;
-    box-shadow: 0 1px 0 0 #f48fb1;
+/****** HOME PAGE CONTENT ******/
+
+.header-row {
+    align-content: center;
+    padding: 150px 0px 100px 0px;
 }
 
+.col-center {
+    width: 100%;
+    text-align: center;
+}
+
+.title-caption {
+    color: #9999f7;
+}
+
+.btn-outline,
+.btn-outline:hover {
+  border-color: #9999f7;
+  color: #9999f7;
+}
 
 
 
