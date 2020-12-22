@@ -1,0 +1,36 @@
+/****** GLOBAL STYLES ******/
+
+.navbar {
+    min-height: 80px;
+}
+
+.nav-link {
+    color: #AC78FF;
+}
+
+/****** HOME PAGE CONTENT ******/
+
+.header-row {
+    align-content: center;
+    padding: 150px 0px 100px 0px;
+}
+
+.col-center {
+    width: 100%;
+    text-align: center;
+}
+
+.title-caption {
+    color: #9999f7;
+}
+
+.btn-outline,
+.btn-outline:hover {
+  border-color: #9999f7;
+  color: #9999f7;
+}
+
+
+
+
+
